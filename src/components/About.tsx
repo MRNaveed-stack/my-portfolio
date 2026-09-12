@@ -1,3 +1,4 @@
+```jsx
 import React from 'react';
 import { motion } from 'framer-motion';
 
@@ -32,30 +33,30 @@ const About = () => {
 
                             <div className="space-y-4 text-neutral-300 leading-relaxed text-lg">
                                 <p>
-                                    Muhammad Naveed Qasim-Backend Engineer focused on performance, clean architecture, and data security.
+                                    Muhammad Naveed Qasim — Full-Stack Engineer with a backend-first approach, focused on scalable systems, clean architecture, performance, and data security.
                                 </p>
                                 <p>
-                                    I design backend systems where APIs, databases, and servers act as the core of the product — not just storage.
+                                    I build end-to-end applications where modern frontends, APIs, databases, backend services, and infrastructure work together as one reliable system.
                                 </p>
 
                                 <ul className="space-y-2 font-medium">
-                                    <li className="flex gap-3"><span className="text-purple-400">→</span> Build APIs with Go & Node.js</li>
-                                    <li className="flex gap-3"><span className="text-purple-400">→</span> Design JWT authentication systems</li>
-                                    <li className="flex gap-3"><span className="text-purple-400">→</span> Optimize SQL for high-throughput performance</li>
+                                    <li className="flex gap-3"><span className="text-purple-400">→</span> Build full-stack applications with Go, Node.js, React & Next.js</li>
+                                    <li className="flex gap-3"><span className="text-purple-400">→</span> Design scalable APIs, authentication systems, and backend architectures</li>
+                                    <li className="flex gap-3"><span className="text-purple-400">→</span> Optimize databases and backend systems for performance and reliability</li>
                                 </ul>
 
                                 <div className="bg-white/5 rounded-xl p-6 border border-white/10 my-6">
                                     <p className="font-semibold text-white mb-3">Currently working on:</p>
                                     <ul className="space-y-2">
-                                        <li className="flex gap-3"><span className="text-purple-400">→</span> Redis-based rate limiting</li>
-                                        <li className="flex gap-3"><span className="text-purple-400">→</span> Dockerized services</li>
-                                        <li className="flex gap-3"><span className="text-purple-400">→</span> CI/CD pipelines & VPS deployments</li>
-                                        <li className="flex gap-3"><span className="text-purple-400">→</span> Exploring AWS for scalable infrastructure</li>
+                                        <li className="flex gap-3"><span className="text-purple-400">→</span> Full-Stack AI Engineering and AI-powered applications</li>
+                                        <li className="flex gap-3"><span className="text-purple-400">→</span> Redis-based rate limiting and scalable backend services</li>
+                                        <li className="flex gap-3"><span className="text-purple-400">→</span> Dockerized services, CI/CD pipelines & production deployments</li>
+                                        <li className="flex gap-3"><span className="text-purple-400">→</span> Exploring AWS for scalable cloud infrastructure</li>
                                     </ul>
                                 </div>
 
                                 <p>
-                                    Also experienced with React & Next.js for seamless backend–frontend integration.
+                                    I am expanding into Full-Stack AI Engineering by combining strong software engineering fundamentals with AI technologies to build intelligent, production-ready applications.
                                 </p>
                             </div>
                         </div>
@@ -67,3 +68,4 @@ const About = () => {
 };
 
 export default About;
+```
