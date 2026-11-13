@@ -9,6 +9,12 @@ const projects = [
         stack: ["Go", "PostgreSQL", "JWT Auth", "Docker"],
         links: { github: "https://github.com/MRNaveed-stack/Performance-Management-System" }
     },
+     {
+        title: "AI DevOps & Incident Intelligence",
+        description: "Distributed Go microservices platform with Gemini-powered incident analysis, automated log ingestion, and asynchronous processing.",
+        stack: ["Go", "Python", "FastAPI", "gRPC", "React", "PostgreSQL", "Redis", "Docker", "OCI"],
+        links: { github: "https://github.com/MRNaveed-stack/ai-devops-incident-intelligence" }
+    },
     {
         title: "Node Secure Backend APIs",
         description: "Robust authentication system featuring refresh tokens, password resets, and protected CRUD infrastructure.",
